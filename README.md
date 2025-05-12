@@ -1,4 +1,4 @@
-# 🔗 Real-time Chat App (Socket.IO + React + Express)
+just practised how chat app would work Chat App (Socket.IO + React + Express)
 
 A simple real-time chat application built with **Vite + React**, **Node.js**, **Express**, **Socket.IO**, and **Material UI**. Users can join specific rooms and exchange messages in real time using Socket.IO's `emit`, `broadcast`, `join`, and `to` `on` functionalities.
 
